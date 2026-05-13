@@ -1,50 +1,94 @@
-<h1 align="center">Hi 👋, I'm Angel Izumy Tominaga</h1>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Angel%20Izumy%20Tominaga&fontSize=45&fontColor=00ffe1&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20Aerospace%20Tech&descAlignY=60"/>
+
+</div>
+
+<h1 align="center">⚡ Hi, I'm Angel Izumy Tominaga ⚡</h1>
 <h3 align="center">Software Engineering Student @ ITSON Guaymas 🇲🇽</h3>
 
-<br>
+<div align="center">
 
-<p align="center">
-  Embedded Systems • Software Architecture • Aerospace Tech • AI
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00FFE1&center=true&vCenter=true&width=900&lines=Python+%7C+Java+%7C+C%2B%2B+%7C+C%23;Embedded+Systems+Developer;ESP32+%7C+Arduino+%7C+Raspberry+Pi;Aerospace+Technology+Enthusiast;Autodidact+Developer;Building+Ambitious+Projects+🚀"/>
 
-<br>
+</div>
 
-- 🎓 Software Engineering Student at ITSON Guaymas
-- 💻 Main Languages: Python, Java, C++, C#
-- 🤖 Working with Arduino, ESP32 & Raspberry Pi
-- 🚀 Interested in Aerospace Technology & Multiplayer Systems
-- 📚 Autodidact developer passionate about ambitious projects
-- 🌎 Languages:
-  - 🇲🇽 Spanish (Native)
-  - 🇺🇸 English B2
-  - 🇷🇺 Russian A2
+---
 
-<br>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR2dG9haTR2N3Z5YWd2MXhpbjB0Z2FydW5ibmx4OGVjNGJpcjVkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-<h3 align="left">Technologies:</h3>
+## 🧠 About Me
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
+- 🎓 Software Engineering Student @ **ITSON Guaymas**
+- 💻 Main Languages: **Python, Java, C++, C#**
+- 🤖 Embedded Systems Developer
+- 🚀 Interested in:
+  - Aerospace Technology
+  - AI
+  - Multiplayer Systems
+  - Software Architecture
+- 📚 Autodidact passionate about ambitious projects
+- ⚡ Always learning new technologies
 
-<br>
+---
 
-<h3 align="left">GitHub Stats:</h3>
+# 🌐 Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
-</p>
+- 🇲🇽 Spanish — Native
+- 🇯🇵 Japanese
+- 🇺🇸 English — B2
+- 🇷🇺 Russian — B1
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
-</p>
+---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
-</p>
+# ⚙️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,arduino,raspberrypi,git,github,linux,vscode,mysql" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzumyTominaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzumyTominaga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=IzumyTominaga&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/IzumyTominaga/IzumyTominaga/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 Featured Interests
+
+```txt
+Embedded Systems
+Aerospace Technology
+Software Architecture
+Artificial Intelligence
+Multiplayer Game Development
+ESP32 / Raspberry Pi Projects
