@@ -16,9 +16,8 @@
 - 📚 Autodidact developer passionate about ambitious projects
 - 🌎 Languages:
   - 🇲🇽 Spanish (Native)
-  - 🇯🇵 Japanese
   - 🇺🇸 English B2
-  - 🇷🇺 Russian B1
+  - 🇷🇺 Russian A2
 
 <br>
 
