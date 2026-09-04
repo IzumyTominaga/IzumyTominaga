@@ -36,8 +36,8 @@
 
 - 🇲🇽 Spanish — Native
 - 🇯🇵 Japanese
-- 🇺🇸 English — B2
-- 🇷🇺 Russian — B1
+- 🇺🇸 English — B1
+- 🇷🇺 Russian — A2
 
 ---
 
