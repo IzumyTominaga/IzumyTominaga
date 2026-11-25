@@ -35,6 +35,7 @@
 # 🌐 Languages
 
 - 🇲🇽 Spanish — Native
+-    Japanese
 - 🇺🇸 English — B1
 - 🇷🇺 Russian — A2
 
